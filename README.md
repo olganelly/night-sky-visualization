@@ -17,3 +17,4 @@ plt.gca().set_facecolor('black')
 plt.xticks([])
 plt.yticks([])
 plt.show()
+hyu
